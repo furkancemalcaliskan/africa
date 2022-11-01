@@ -12,6 +12,7 @@
 		714ABFBF2911AAE500767D11 /* VideoPlayerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 714ABFBE2911AAE500767D11 /* VideoPlayerView.swift */; };
 		714ABFC42911ABCD00767D11 /* VideoPlayerHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 714ABFC32911ABCD00767D11 /* VideoPlayerHelper.swift */; };
 		714ABFC62911AF2A00767D11 /* LocationModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 714ABFC52911AF2A00767D11 /* LocationModel.swift */; };
+		714ABFC82911B30500767D11 /* MapAnnotationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 714ABFC72911B30500767D11 /* MapAnnotationView.swift */; };
 		71E864BC29112D08000A2FDE /* africaApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71E864BB29112D08000A2FDE /* africaApp.swift */; };
 		71E864BE29112D08000A2FDE /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71E864BD29112D08000A2FDE /* ContentView.swift */; };
 		71E864C029112D08000A2FDE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 71E864BF29112D08000A2FDE /* Assets.xcassets */; };
@@ -53,6 +54,7 @@
 		714ABFBE2911AAE500767D11 /* VideoPlayerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoPlayerView.swift; sourceTree = "<group>"; };
 		714ABFC32911ABCD00767D11 /* VideoPlayerHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoPlayerHelper.swift; sourceTree = "<group>"; };
 		714ABFC52911AF2A00767D11 /* LocationModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationModel.swift; sourceTree = "<group>"; };
+		714ABFC72911B30500767D11 /* MapAnnotationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapAnnotationView.swift; sourceTree = "<group>"; };
 		71E864B829112D08000A2FDE /* africa.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = africa.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		71E864BB29112D08000A2FDE /* africaApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = africaApp.swift; sourceTree = "<group>"; };
 		71E864BD29112D08000A2FDE /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -204,6 +206,7 @@
 				71E8650829116FAC000A2FDE /* ExternalWeblinkView.swift */,
 				714ABFBC2911A37000767D11 /* VideoListItemView.swift */,
 				714ABFBE2911AAE500767D11 /* VideoPlayerView.swift */,
+				714ABFC72911B30500767D11 /* MapAnnotationView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -324,6 +327,7 @@
 				714ABFC42911ABCD00767D11 /* VideoPlayerHelper.swift in Sources */,
 				71E8650729116AD9000A2FDE /* InsetMapView.swift in Sources */,
 				71E864BC29112D08000A2FDE /* africaApp.swift in Sources */,
+				714ABFC82911B30500767D11 /* MapAnnotationView.swift in Sources */,
 				71E864EA2911302A000A2FDE /* VideoListView.swift in Sources */,
 				714ABFBB2911A32400767D11 /* VideoModel.swift in Sources */,
 				71E864EE2911306A000A2FDE /* GalleryView.swift in Sources */,
