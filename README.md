@@ -10,9 +10,9 @@ africa is the first program that i made which works in different Apple platforms
 
 ## Screenshots
 
-<a href="url"><img src="https://raw.githubusercontent.com/dejkoveci/africa/main/Screenshots/iphone14Pro.png" align="center" height="200" width="125" ></a>
-<a href="url"><img src="https://raw.githubusercontent.com/dejkoveci/africa/main/Screenshots/ipadPro.png" align="center" height="220" width="300" ></a>
-<a href="url"><img src="https://raw.githubusercontent.com/dejkoveci/africa/main/Screenshots/macbook.png" align="center" height="220" width="380" ></a>
+<a href="https://raw.githubusercontent.com/dejkoveci/africa/main/Screenshots/iphone14Pro.png"><img src="https://raw.githubusercontent.com/dejkoveci/africa/main/Screenshots/iphone14Pro.png" align="center" height="200" width="125" ></a>
+<a href="https://raw.githubusercontent.com/dejkoveci/africa/main/Screenshots/ipadPro.png"><img src="https://raw.githubusercontent.com/dejkoveci/africa/main/Screenshots/ipadPro.png" align="center" height="220" width="300" ></a>
+<a href="https://raw.githubusercontent.com/dejkoveci/africa/main/Screenshots/macbook.png"><img src="https://raw.githubusercontent.com/dejkoveci/africa/main/Screenshots/macbook.png" align="center" height="220" width="380" ></a>
 
 ## Features
 
