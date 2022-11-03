@@ -3,7 +3,7 @@
 ![iosBadge](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![macosBadge](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 
-<a href="url"><img src="https://raw.githubusercontent.com/dejkoveci/africa/main/Screenshots/icon.png" align="center" height="128" width="128" ></a>
+<a href="https://raw.githubusercontent.com/dejkoveci/africa/main/Screenshots/icon.png"><img src="https://raw.githubusercontent.com/dejkoveci/africa/main/Screenshots/icon.png" align="center" height="128" width="128" ></a>
 # africa
 
 africa is the first program that i made which works in different Apple platforms (such as iOS, iPadOS and macOS) with using SwiftUI. It is an educational application where you can see pictures, videos, interesting features of some animal species living in africa and which zoos they live in.
